@@ -1,19 +1,42 @@
 <div align="center">
 
-# 👋 Hi, I'm Thaty Karthikeya
+<!-- ================= BANNER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,100:00d9ff&height=220&section=header&text=Thaty%20Karthikeya&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Backend%20Developer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-### AI Engineer | Software Engineer | Machine Learning Engineer | Data Science Engineer
+<!-- ================= TYPING ANIMATION ================= -->
+<a href="#">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Enterprise+AI+Systems;Engineering+Scalable+Backend+APIs;Exploring+LLMs+%26+Agentic+AI;Passionate+about+Software+Engineering;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
+</a>
 
-Computer Science & Data Science undergraduate building scalable AI-powered software — LLMs, RAG, multi-agent systems, and production backends.
+<!-- ================= INFO BADGES ================= -->
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-A371F7?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/karthikeya-Hub12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeya-thaty)
-[![Gmail](https://img.shields.io/badge/Email-39D0D8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikeyathaty@gmail.com)
-[![Certifications](https://img.shields.io/badge/Certifications-0d1117?style=for-the-badge&logo=googledrive&logoColor=A371F7)](https://drive.google.com/file/d/12Ds7rOg625u6NcauH4xOjrErfzj2KX7f/view?usp=sharing)
+![Degree](https://img.shields.io/badge/Degree-B.Tech%20CSE%20(Data%20Science)-0f2027?style=flat-square&labelColor=000000&color=00D9FF)
+![University](https://img.shields.io/badge/University-Guru%20Nanak%20Institution%20of%20Technical%20Campus-0f2027?style=flat-square&labelColor=000000&color=00D9FF)
+![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-0f2027?style=flat-square&labelColor=000000&color=00D9FF)
+![AI Engineer](https://img.shields.io/badge/Role-AI%20Engineer-0f2027?style=flat-square&labelColor=000000&color=00D9FF)
+![Software Engineer](https://img.shields.io/badge/Role-Software%20Engineer-0f2027?style=flat-square&labelColor=000000&color=00D9FF)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-0f2027?style=flat-square&labelColor=000000&color=00D9FF)
+![GitHub](https://img.shields.io/badge/GitHub-karthikeya--Hub12-0f2027?style=flat-square&labelColor=000000&color=00D9FF)
 
-![Profile Views](https://komarev.com/ghpvc/?username=karthikeya-Hub12&color=a371f7&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/karthikeya-Hub12?color=58A6FF&label=FOLLOWERS&style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/github/stars/karthikeya-Hub12?color=39D0D8&label=STARS&style=for-the-badge&logo=github)
+<br/>
+
+<!-- ================= CTA BUTTONS ================= -->
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/karthikeya-Hub12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/karthikeya-thaty)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:karthikeyathaty@gmail.com)
+
+</div>
+
+<br/>
+
+<!-- ================= GITHUB STATS STRIP ================= -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=karthikeya-Hub12&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/karthikeya-Hub12?style=flat-square&color=00D9FF&labelColor=000000&label=FOLLOWERS)
+![Repos](https://img.shields.io/badge/dynamic/json?color=00D9FF&labelColor=000000&label=REPOSITORIES&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkarthikeya-Hub12&style=flat-square)
+![Stars](https://img.shields.io/github/stars/karthikeya-Hub12?style=flat-square&color=00D9FF&labelColor=000000&label=STARS)
 
 </div>
 
@@ -21,62 +44,223 @@ Computer Science & Data Science undergraduate building scalable AI-powered softw
 
 ## 🧠 About Me
 
-- 🎓 Final-year **B.Tech (CSE – Data Science)** student at Guru Nanak Institutions Technical Campus, Hyderabad (2022–2026), CGPA **8.3/10**
-- 💼 **Data Science Intern** at Oasis Infobyte (Dec 2025 – Jan 2026)
-- 🤖 Building enterprise-grade AI systems — **LLMs, RAG, Agentic AI, LangGraph, FastAPI**
-- 🌱 Currently deepening skills in **Agentic AI, Multi-Agent Systems, Azure AI, Databricks, Apache Spark, System Design**
-- 📫 Reach me at **karthikeyathaty@gmail.com**
-- 📄 Verified certifications: [View Certificate Folder](https://drive.google.com/file/d/12Ds7rOg625u6NcauH4xOjrErfzj2KX7f/view?usp=sharing)
+I'm a Computer Science & Data Science undergraduate who builds production-oriented AI systems — from LLM-powered copilots to multi-agent platforms — backed by solid software engineering fundamentals. My focus sits at the intersection of **backend engineering** and **applied AI**: designing APIs and services that make machine learning and generative AI systems usable in the real world.
+
+```bash
+ROLE            = Software Engineer
+SPECIALIZATION  = Artificial Intelligence
+STACK           = Python | FastAPI | React | TypeScript | Azure
+FOCUS           = Enterprise AI Systems, RAG, Multi-Agent Platforms
+OPEN_TO         = Software Engineer | AI Engineer | Backend Engineer
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**
+<details open>
+<summary><b>Programming Languages</b> — Core languages I build with</summary>
+<br/>
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=A371F7)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=39D0D8)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=58A6FF)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00D9FF)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00D9FF)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=00D9FF)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=00D9FF)
 
-**AI / Machine Learning**
+</details>
 
-![LLMs](https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge&logo=openai&logoColor=A371F7)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=39D0D8)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=graphql&logoColor=58A6FF)
-![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=databricks&logoColor=A371F7)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=39D0D8)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=58A6FF)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=A371F7)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=39D0D8)
+<details>
+<summary><b>Backend Development</b> — Building scalable, production-ready services</summary>
+<br/>
 
-**Backend & Frontend**
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=00D9FF)
+![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=00D9FF)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=00D9FF)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=A371F7)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=39D0D8)
+</details>
 
-**Databases & Vector Stores**
+<details>
+<summary><b>Artificial Intelligence</b> — LLM systems, RAG & agentic architectures</summary>
+<br/>
 
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=58A6FF)
-![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logo=meta&logoColor=A371F7)
-![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logo=pinecone&logoColor=39D0D8)
-![Milvus](https://img.shields.io/badge/Milvus-0d1117?style=for-the-badge&logo=milvus&logoColor=58A6FF)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=openai&logoColor=00D9FF)
+![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square&logo=databricks&logoColor=00D9FF)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=00D9FF)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=graphql&logoColor=00D9FF)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square&logo=openai&logoColor=00D9FF)
 
-**Cloud & Big Data**
+</details>
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=A371F7)
-![Databricks](https://img.shields.io/badge/Azure_Databricks-0d1117?style=for-the-badge&logo=databricks&logoColor=39D0D8)
-![Spark](https://img.shields.io/badge/Apache_Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=58A6FF)
+<details>
+<summary><b>Machine Learning</b> — Modeling, deep learning & NLP</summary>
+<br/>
 
-**Developer Tools**
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logo=scikitlearn&logoColor=00D9FF)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-000000?style=flat-square&logo=tensorflow&logoColor=00D9FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=00D9FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=00D9FF)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=00D9FF)
+![NLP](https://img.shields.io/badge/NLP-000000?style=flat-square&logo=openai&logoColor=00D9FF)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=00D9FF)
 
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=A371F7)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39D0D8)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=A371F7)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=39D0D8)
-![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=58A6FF)
+</details>
+
+<details>
+<summary><b>Cloud & Big Data</b> — Distributed data & cloud-native pipelines</summary>
+<br/>
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-000000?style=flat-square&logo=microsoftazure&logoColor=00D9FF)
+![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-000000?style=flat-square&logo=databricks&logoColor=00D9FF)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-000000?style=flat-square&logo=apachespark&logoColor=00D9FF)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-000000?style=flat-square&logo=airbyte&logoColor=00D9FF)
+
+</details>
+
+<details>
+<summary><b>Software Engineering</b> — Fundamentals & system design thinking</summary>
+<br/>
+
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-000000?style=flat-square&logo=leetcode&logoColor=00D9FF)
+![OOP](https://img.shields.io/badge/OOP-000000?style=flat-square&logo=codeforces&logoColor=00D9FF)
+![DBMS](https://img.shields.io/badge/DBMS-000000?style=flat-square&logo=oracle&logoColor=00D9FF)
+![OS](https://img.shields.io/badge/Operating_Systems-000000?style=flat-square&logo=linux&logoColor=00D9FF)
+![Networks](https://img.shields.io/badge/Computer_Networks-000000?style=flat-square&logo=cisco&logoColor=00D9FF)
+![REST](https://img.shields.io/badge/REST_Architecture-000000?style=flat-square&logo=fastapi&logoColor=00D9FF)
+
+</details>
+
+<details>
+<summary><b>Developer Tools</b> — Daily engineering toolkit</summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00D9FF)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00D9FF)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=00D9FF)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-000000?style=flat-square&logo=jupyter&logoColor=00D9FF)
+![Colab](https://img.shields.io/badge/Google_Colab-000000?style=flat-square&logo=googlecolab&logoColor=00D9FF)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=00D9FF)
+![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=flat-square&logo=kaggle&logoColor=00D9FF)
+
+</details>
+
+---
+
+## 🎯 Core Expertise
+
+| Domain | Expertise | Technologies | Business Value |
+|---|---|---|---|
+| **AI Systems** | LLM applications, RAG, agentic workflows | LangChain, LangGraph, Prompt Engineering | Faster, explainable decision-making |
+| **Backend Engineering** | Scalable REST API design | FastAPI, Python | Reliable, enterprise-ready services |
+| **Machine Learning** | Predictive modeling, feature engineering | Scikit-learn, TensorFlow, PyTorch | Improved forecasting accuracy |
+| **Data Engineering** | ETL pipelines, big data processing | Apache Spark, Azure Databricks | Faster, higher-quality data pipelines |
+| **Frontend Integration** | Real-time analytics dashboards | React, TypeScript | Transparent, data-driven UX |
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🔹 AI Recruiter Intelligence Platform</b></summary>
+<br/>
+
+**Overview:** An AI-powered candidate intelligence platform that analyzes and ranks candidate profiles against job requirements using semantic search and LLMs.
+
+**Architecture:** FastAPI backend services expose REST APIs consumed by a React + TypeScript frontend, with LLM-driven ranking logic in the analysis layer.
+
+**Key Features:**
+- Ranks over 100,000 candidate profiles based on job requirement matching
+- Explainable AI-driven candidate scoring for recruiters
+- Real-time analytics dashboards with transparent insights
+
+**Technology Stack:** `Python` `FastAPI` `React` `TypeScript` `SQL` `LLMs`
+
+**Business Impact:** Enables faster, data-driven hiring decisions by automating candidate screening and profile analysis at scale.
+
+</details>
+
+<details>
+<summary><b>🔹 Industrial AI Maintenance Copilot</b></summary>
+<br/>
+
+**Overview:** An enterprise-grade AI maintenance copilot using Retrieval-Augmented Generation to retrieve knowledge from SOPs, maintenance manuals, and equipment logs.
+
+**Architecture:** FastAPI services power RAG-based retrieval, paired with an interactive Streamlit interface for real-time diagnostics.
+
+**Key Features:**
+- LLM-powered root cause analysis for equipment faults
+- Predictive maintenance recommendations
+- Real-time equipment health assessment
+
+**Technology Stack:** `Python` `FastAPI` `Streamlit` `LangChain` `RAG` `LLMs`
+
+**Business Impact:** Reduces troubleshooting time and improves overall maintenance efficiency.
+
+</details>
+
+<details>
+<summary><b>🔹 Multi-Agent Customer Support Platform</b></summary>
+<br/>
+
+**Overview:** A multi-agent AI platform automating customer support through intelligent task orchestration and contextual knowledge retrieval.
+
+**Architecture:** LangGraph-orchestrated agents backed by FastAPI REST APIs, with memory-aware retrieval for contextual continuity.
+
+**Key Features:**
+- Multi-agent orchestration for customer support automation
+- Memory-aware agents that reduce repetitive queries
+- RAG-based contextual knowledge retrieval
+
+**Technology Stack:** `Python` `FastAPI` `LangChain` `LangGraph` `LLMs`
+
+**Business Impact:** Improves response accuracy and support efficiency through automated, context-aware agent workflows.
+
+</details>
+
+---
+
+## 💼 Professional Experience
+
+**Data Science Intern** · Oasis Infobyte
+`Dec 2025 – Jan 2026`
+- Engineered and optimized machine learning models on 10,000+ records using Python, feature engineering, and statistical analysis — improving prediction accuracy by **12%**
+- Designed and automated interactive analytics dashboards and reporting workflows — reducing manual reporting effort by **25%**
+- Built scalable data preprocessing and EDA pipelines, improving data quality and accelerating end-to-end ML workflows
+
+**Skills used:** `Python` `Machine Learning` `Feature Engineering` `Data Analysis` `Dashboarding`
+
+---
+
+## 🏆 Achievements
+
+| Achievement | Issuer | Year |
+|---|---|---|
+| Tata Steel AI Hackathon 2026 – Certificate of Recognition | Tata Steel | 2026 |
+| Salesforce Trailblazer Champion – Agentforce & AI | Salesforce | — |
+| Generative AI Data Analytics Program | Tata Group | — |
+| Data Analytics Program | Deloitte | — |
+
+---
+
+## 🎓 Education
+
+![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering%20(Data%20Science)-000000?style=for-the-badge&logo=googlescholar&logoColor=00D9FF)
+
+**Guru Nanak Institution of Technical Campus**, Hyderabad, Telangana
+`2022 – 2026` &nbsp;|&nbsp; CGPA: **8.3/10**
+
+---
+
+## 📜 Certifications
+
+**Salesforce**
+- Trailblazer Champion – Agentforce & AI
+
+**Tata Group**
+- Generative AI Data Analytics Program
+- Tata Steel AI Hackathon 2026 – Certificate of Recognition
+
+**Deloitte**
+- Data Analytics Program
 
 ---
 
@@ -84,118 +268,115 @@ Computer Science & Data Science undergraduate building scalable AI-powered softw
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthikeya-Hub12&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A371F7&icon_color=58A6FF&text_color=C9D1D9&ring_color=39D0D8"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeya-Hub12&hide_border=true&background=0D1117&stroke=39D0D8&ring=A371F7&fire=58A6FF&currStreakLabel=A371F7&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=karthikeya-Hub12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeya-Hub12&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="49%"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeya-Hub12&layout=compact&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9&langs_count=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeya-Hub12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" width="49%"/>
 
 </div>
 
----
-
-## 📈 Contribution Activity Graph
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeya-Hub12&bg_color=0D1117&color=58A6FF&line=A371F7&point=39D0D8&area=true&area_color=A371F7&hide_border=true&custom_title=Contribution%20Activity"/>
+<img src="https://github-profile-trophy.vercel.app/?username=karthikeya-Hub12&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
 
----
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeya-Hub12&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff" width="100%"/>
+
+</div>
 
 ## 🐍 Contribution Snake
 
-Auto-generated and refreshed daily via GitHub Actions (`.github/workflows/snake.yml`), rendering my contribution graph as an animated snake.
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthikeya-Hub12/karthikeya-Hub12/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthikeya-Hub12/karthikeya-Hub12/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/karthikeya-Hub12/karthikeya-Hub12/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/karthikeya-Hub12/karthikeya-Hub12/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
-> ⚠️ The snake images render once the **`snake.yml`** workflow (included in this repo) runs at least once and publishes to the `output` branch of `karthikeya-Hub12/karthikeya-Hub12`.
+> **Setup note:** The snake animation above renders from a file generated by a GitHub Action, not a live badge. Add this workflow to your profile repo at `.github/workflows/snake.yml`:
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 */6 * * *"
+>   workflow_dispatch:
+>   push:
+>     branches: [ main ]
+>
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     permissions:
+>       contents: write
+>     steps:
+>       - uses: actions/checkout@v4
+>       - uses: Platane/snk@v3
+>         id: snake-gif
+>         with:
+>           github_user_name: karthikeya-Hub12
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v4
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+> Once this Action runs once, the image above will populate automatically.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Model Context Protocol (MCP)
+  - Distributed Systems
+  - Docker & Kubernetes
+
+building:
+  - Multi-Agent Customer Support Platform
+  - Industrial AI Maintenance Copilot
+  - AI Recruiter Intelligence Platform
+
+exploring:
+  - Cloud Native AI
+  - Production LLM Systems
+  - Enterprise Software Architecture
+
+open_to:
+  - Software Engineer
+  - AI Engineer
+  - Backend Engineer
+```
+
+---
+
+## 🔗 Connect
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=karthikeya-Hub12&theme=algolia&column=7&no-frame=true&no-bg=true&margin-w=8&margin-h=8&title=Commits,Stars,Followers,Repositories,PullRequest,Issues,MultiLanguage"/>
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/karthikeya-Hub12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/karthikeya-thaty)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:karthikeyathaty@gmail.com)
 
 </div>
 
 ---
 
-## 🗂️ Profile Summary Cards
-
 <div align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikeya-Hub12&theme=github_dark"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karthikeya-Hub12&theme=github_dark"/>
-<br/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karthikeya-Hub12&theme=github_dark"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karthikeya-Hub12&theme=github_dark&utcOffset=5.5"/>
-<br/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karthikeya-Hub12&theme=github_dark"/>
+*"Simplicity is the ultimate sophistication in engineering — build systems that scale, and code that lasts."*
 
-</div>
-
-> Cards are rendered live from public GitHub data by the official [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) service — no values are fabricated here.
-
----
-
-## 🔢 Key Metrics
-
-| Metric | Badge |
-|---|---|
-| Total Stars Earned | ![Stars](https://img.shields.io/github/stars/karthikeya-Hub12?style=flat-square&color=A371F7&label=%E2%98%85) |
-| Followers | ![Followers](https://img.shields.io/github/followers/karthikeya-Hub12?style=flat-square&color=58A6FF&label=Followers) |
-| Public Repositories | ![Repos](https://img.shields.io/badge/dynamic/json?color=39D0D8&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkarthikeya-Hub12) |
-
-*(Commits, Pull Requests, Issues, and Contributions are already shown live inside the "GitHub Analytics" stats card above — GitHub does not expose a separate public badge endpoint for these, so they are not duplicated to avoid stale/incorrect numbers.)*
-
----
-
-## 🚀 Featured Projects
-
-**[AI Recruiter Intelligence Platform](https://github.com/karthikeya-Hub12)** — `Python` `FastAPI` `React` `TypeScript` `SQL` `LLMs`
-Enterprise candidate-intelligence platform ranking 100,000+ profiles using semantic search and explainable AI ranking.
-
-**[Industrial AI Maintenance Copilot](https://github.com/karthikeya-Hub12)** — `Python` `FastAPI` `Streamlit` `LangChain` `RAG` `LLMs`
-RAG-powered maintenance assistant for fault diagnosis, root-cause analysis, and predictive maintenance.
-
-**[Multi-Agent Customer Support Platform](https://github.com/karthikeya-Hub12)** — `Python` `FastAPI` `LangChain` `LangGraph` `LLMs` `RAG`
-Multi-agent customer support automation with memory-aware RAG and LangGraph orchestration.
-
-**Eye Blink Detection** — `Python` `OpenCV` `MediaPipe`
-Real-time eye blink detection using facial landmark tracking.
-
----
-
-## 🎓 Education
-
-**B.Tech, Computer Science & Engineering (Data Science)**
-Guru Nanak Institutions Technical Campus, Hyderabad, Telangana — CGPA 8.3/10 — 2022–2026
-
-## 📜 Certifications
-
-- Tata Steel AI Hackathon 2026 – Certificate of Recognition
-- Salesforce Trailblazer Champion – Agentforce & AI
-- Generative AI Data Analytics Program – Tata Group
-- Data Analytics Program – Deloitte
-- 📁 [All certificates (Drive folder)](https://drive.google.com/file/d/12Ds7rOg625u6NcauH4xOjrErfzj2KX7f/view?usp=sharing)
-
----
-
-<div align="center">
-
-**🌐 Languages:** English · Hindi · Telugu
-
-![Snake animation not rendered yet? Trigger the workflow.](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=A371F7)
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:00d9ff,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
